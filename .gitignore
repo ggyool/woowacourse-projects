@@ -1,0 +1,47 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+.jpb
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Frontend ###
+node_modules
+dist
+.DS_Store
+
+### Log ###
+backend/logs/**
+backend/logs
+logs/**
+
+
+### API Documentation ###
+backend/src/main/resources/static/docs/**
+
+### Secret files ###
+backend/src/main/resources/application-dev.yml
