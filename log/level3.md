@@ -15,4 +15,4 @@
 <br><br><br> 
 ## 적어 놓고 누락함...
 - [리눅스 컨테이너](https://prolog.techcourse.co.kr/posts/1221)
-- [도커 기본개 념](https://prolog.techcourse.co.kr/posts/1222)
+- [도커 기본 개념](https://prolog.techcourse.co.kr/posts/1222)
