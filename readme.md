@@ -24,7 +24,7 @@
     <img src='./img/frogo.png' width="30%">
 </p>
 
-#### [develop server](https://botobo.r-e.kr/) / [api 명세서](https://botobo.r-e.kr/api/docs/index.html) / [repository](https://github.com/woowacourse-teams/2021-botobo) / [wiki](https://github.com/woowacourse-teams/2021-botobo/wiki)
+#### [production server](https://botobo.kr/) / [develop server](https://dev.botobo.kr/) / [api 명세서](https://botobo.r-e.kr/api/docs/index.html) / [repository](https://github.com/woowacourse-teams/2021-botobo) / [wiki](https://github.com/woowacourse-teams/2021-botobo/wiki)
 
 <br><br>
 
