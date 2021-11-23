@@ -12,7 +12,5 @@
 - [로깅](https://prolog.techcourse.co.kr/posts/1230)
 - [JPA 다대다 연관관계 매핑](https://prolog.techcourse.co.kr/posts/1231)
 - [JPA 고아 객체](https://prolog.techcourse.co.kr/posts/1232)
-<br><br><br> 
-## 적어 놓고 누락함...
 - [리눅스 컨테이너](https://prolog.techcourse.co.kr/posts/1221)
 - [도커 기본 개념](https://prolog.techcourse.co.kr/posts/1222)
